@@ -5,7 +5,7 @@ format: html
 editor: visual
 ---
 
-## Consideración 
+## Consideración
 
 Este programa tiene por objetivo generar una propuesta para la asignación de salas a través de solicitudes y compararla con la oferta definida.
 
